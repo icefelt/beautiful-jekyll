@@ -23,7 +23,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "thingsandsuch"
   Resources:
     - Someting I like: "https://lunky.com/"
   Author's home: "https://blog.eissfeldt.com"
@@ -71,22 +71,22 @@ author:
 social-network-links:
   rss: true
   email: "scott@eissfeldt.com"
-#  facebook: daattali
+#  facebook: 
   github: icefelt
-#  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  twitter: 
+#  reddit: 
+#  google-plus: 
+#  linkedin: 
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  stackoverflow: 
+#  snapchat: 
+#  instagram: 
+#  youtube: 
+#  spotify: 
+#  telephone: 
+#  steam: 
+#  twitch: 
+#  yelp: 
 
 # Select which share links to show in posts
 share-links-active:
